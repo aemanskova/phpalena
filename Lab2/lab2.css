@@ -1,0 +1,19 @@
+
+
+.php_footer {
+    width: 100%;
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.submit {
+    padding: 6px 10px;
+}
