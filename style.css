@@ -1,16 +1,20 @@
-
-html, body {
-    padding: 0px;
-    margin: 0px;
+.php_footer {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
 }
 
-.text {
+h1 {
     width: 100%;
     text-align: center;
 }
 
-.table {
-    width: 40%;
-    margin: 0 auto;
+p {
+    width: 100%;
+    text-align: center;
+}
 
+#logo {
+    width: 200px;
 }

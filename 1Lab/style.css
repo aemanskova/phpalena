@@ -1,0 +1,20 @@
+
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.text {
+    width: 100%;
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+}
+
+.table {
+    width: 40%;
+    margin: 0 auto;
+
+}
